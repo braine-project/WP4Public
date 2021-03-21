@@ -1,3 +1,15 @@
+branding: {
+  description: AirBoss , 
+  email: AirBoss@company.com , 
+  image_logo: /home/johnr/data/airbus.jpg
+}
+
+
+
+
+
+
+
 dashboard_elements:
     - CPU_gauge.json
     - CPU_hist.json
